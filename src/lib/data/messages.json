@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": "501",
+    "fromId": "1",
+    "toId": "3",
+    "message": "Kan du ta kvällspasset den 28:e?",
+    "timestamp": "2023-10-24T09:15:00Z"
+  },
+  {
+    "id": "502",
+    "fromId": "3",
+    "toId": "1",
+    "message": "Javisst, det fixar jag!",
+    "timestamp": "2023-10-24T09:16:30Z"
+  },
+  {
+    "id": "503",
+    "fromId": "2",
+    "toId": "4",
+    "message": "Kom ihåg att tidrapportera efter ditt pass imorgon.",
+    "timestamp": "2023-10-25T16:00:00Z"
+  },
+  {
+    "id": "504",
+    "fromId": "4",
+    "toId": "2",
+    "message": "Tack för påminnelsen, det ska jag göra.",
+    "timestamp": "2023-10-25T16:05:00Z"
+  },
+  {
+    "id": "505",
+    "fromId": "1",
+    "toId": "2",
+    "message": "Kan du se över schemat för nästa vecka?",
+    "timestamp": "2023-10-26T11:00:00Z"
+  }
+]

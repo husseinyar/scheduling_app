@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": "101",
+    "title": "Kvällspass Restaurang",
+    "date": "2024-08-01",
+    "start": "18:00",
+    "end": "23:00",
+    "assignedTo": null,
+    "status": "open",
+    "applicants": []
+  },
+  {
+    "id": "102",
+    "title": "Morgonpass Kassa",
+    "date": "2024-08-01",
+    "start": "07:00",
+    "end": "15:00",
+    "assignedTo": "3",
+    "status": "assigned",
+    "applicants": []
+  },
+  {
+    "id": "103",
+    "title": "Dagpass Lager",
+    "date": "2024-08-02",
+    "start": "09:00",
+    "end": "17:00",
+    "assignedTo": "4",
+    "status": "assigned",
+    "applicants": []
+  },
+  {
+    "id": "104",
+    "title": "Nattpass Städ",
+    "date": "2024-08-02",
+    "start": "22:00",
+    "end": "06:00",
+    "assignedTo": null,
+    "status": "open",
+    "applicants": ["3"]
+  },
+  {
+    "id": "105",
+    "title": "Eventpass Konferens",
+    "date": "2024-08-03",
+    "start": "10:00",
+    "end": "19:00",
+    "assignedTo": null,
+    "status": "open",
+    "applicants": []
+  },
+  {
+    "id": "106",
+    "title": "Helgpass Butik",
+    "date": "2024-08-04",
+    "start": "10:00",
+    "end": "18:00",
+    "assignedTo": "4",
+    "status": "assigned",
+    "applicants": []
+  }
+]

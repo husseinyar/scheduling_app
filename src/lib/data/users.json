@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": "1",
+    "name": "Lisa Admin",
+    "role": "admin",
+    "email": "lisa@example.com",
+    "avatarUrl": "https://placehold.co/40x40/FFB347/333333.png?text=LA"
+  },
+  {
+    "id": "2",
+    "name": "Mikael Manager",
+    "role": "manager",
+    "email": "mikael@example.com",
+    "avatarUrl": "https://placehold.co/40x40/87CEEB/333333.png?text=MM"
+  },
+  {
+    "id": "3",
+    "name": "Erik Employee",
+    "role": "employee",
+    "email": "erik@example.com",
+    "avatarUrl": "https://placehold.co/40x40/90EE90/333333.png?text=EE"
+  },
+  {
+    "id": "4",
+    "name": "Anna Employee",
+    "role": "employee",
+    "email": "anna@example.com",
+    "avatarUrl": "https://placehold.co/40x40/90EE90/333333.png?text=AE"
+  }
+]

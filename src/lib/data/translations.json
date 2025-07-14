@@ -1,0 +1,133 @@
+
+{
+  "en": {
+    "appName": "Schema",
+    "login": {
+      "title": "Welcome to Schema",
+      "description": "Select a user profile to sign in.",
+      "selectUserPlaceholder": "Select a user...",
+      "button": "Log in"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "welcome": "Welcome",
+      "shifts": "Shifts",
+      "users": "Users",
+      "messages": "Messages",
+      "openShifts": "Open Shifts",
+      "myShifts": "My Shifts",
+      "allShifts": "All Shifts",
+      "allUsers": "All Users",
+      "employees": "Employees"
+    },
+    "shiftCard": {
+      "open": "Open",
+      "assigned": "Assigned",
+      "pending": "Pending approval",
+      "apply": "Apply",
+      "applied": "Applied",
+      "assign": "Assign",
+      "edit": "Edit",
+      "time": "Time",
+      "date": "Date",
+      "status": "Status",
+      "assignedTo": "Assigned to"
+    },
+    "chat": {
+      "title": "Messages",
+      "noMessages": "No messages to display.",
+      "from": "From",
+      "to": "To"
+    },
+    "userNav": {
+      "profile": "Profile",
+      "logout": "Log out"
+    },
+    "roles": {
+      "admin": "Admin",
+      "manager": "Manager",
+      "employee": "Employee"
+    },
+    "createShift": {
+      "title": "Create New Shift",
+      "description": "Fill in the details for the new shift.",
+      "shiftTitle": "Shift Title",
+      "shiftTitlePlaceholder": "e.g., Evening Shift",
+      "date": "Date",
+      "startTime": "Start Time",
+      "endTime": "End Time",
+      "button": "Create Shift"
+    },
+    "assignShift": {
+      "title": "Assign Shift",
+      "description": "Select an employee to assign this shift to.",
+      "selectEmployee": "Select employee...",
+      "button": "Assign"
+    }
+  },
+  "sv": {
+    "appName": "Schema",
+    "login": {
+      "title": "Välkommen till Schema",
+      "description": "Välj en användarprofil för att logga in.",
+      "selectUserPlaceholder": "Välj en användare...",
+      "button": "Logga in"
+    },
+    "dashboard": {
+      "title": "Översikt",
+      "welcome": "Välkommen",
+      "shifts": "Arbetspass",
+      "users": "Användare",
+      "messages": "Meddelanden",
+      "openShifts": "Lediga pass",
+      "myShifts": "Mina pass",
+      "allShifts": "Alla pass",
+      "allUsers": "Alla användare",
+      "employees": "Anställda"
+    },
+    "shiftCard": {
+      "open": "Ledigt",
+      "assigned": "Tillsatt",
+      "pending": "Väntar på godkännande",
+      "apply": "Ansök",
+      "applied": "Ansökt",
+      "assign": "Tillsätt",
+      "edit": "Redigera",
+      "time": "Tid",
+      "date": "Datum",
+      "status": "Status",
+      "assignedTo": "Tillsatt av"
+    },
+    "chat": {
+      "title": "Meddelanden",
+      "noMessages": "Inga meddelanden att visa.",
+      "from": "Från",
+      "to": "Till"
+    },
+    "userNav": {
+      "profile": "Profil",
+      "logout": "Logga ut"
+    },
+    "roles": {
+      "admin": "Administratör",
+      "manager": "Arbetsledare",
+      "employee": "Anställd"
+    },
+    "createShift": {
+      "title": "Skapa nytt pass",
+      "description": "Fyll i detaljerna för det nya arbetspasset.",
+      "shiftTitle": "Passtitel",
+      "shiftTitlePlaceholder": "t.ex. Kvällspass",
+      "date": "Datum",
+      "startTime": "Starttid",
+      "endTime": "Sluttid",
+      "button": "Skapa pass"
+    },
+    "assignShift": {
+      "title": "Tillsätt pass",
+      "description": "Välj en anställd att tilldela detta pass till.",
+      "selectEmployee": "Välj anställd...",
+      "button": "Tillsätt"
+    }
+  }
+}
