@@ -17,7 +17,7 @@ interface ShiftCardProps {
 }
 
 export function ShiftCard({ shift, onShiftUpdate, onAssign }: ShiftCardProps) {
-  const { t } = useTranslation()
+  const { t, lang } = useTranslation()
   const { user } = useUser()
 
   const assignedUser = shift.assignedTo ? allUsers.find(u => u.id === shift.assignedTo) : null
@@ -64,7 +64,7 @@ export function ShiftCard({ shift, onShiftUpdate, onAssign }: ShiftCardProps) {
       <CardContent className="grid gap-4">
         <div className="flex items-center">
           <Calendar className="mr-2 h-4 w-4 text-muted-foreground" />
-          <span className="text-sm">{new Date(shift.date).toLocaleDateString(t('lang'), { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</span>
+          <span className="text-sm">{new Date(shift.date).toLocaleDateString(lang, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</span>
         </div>
         <div className="flex items-center">
           <Clock className="mr-2 h-4 w-4 text-muted-foreground" />
